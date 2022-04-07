@@ -1,5 +1,11 @@
 ### Hello there 👋
 
+- 😀 Fun fact: I've decided to become a software engineer right after I've played Age of Empires (back in 1997) on mom's working PC. It was the very first game I've ever played on PC. Haven't become a Game Developer, but still - writing code 💻
+
+- 🔭 I’m currently working on some micro-services for my personal project - [Template Tasks](https://templatetasks.com). Will share them once they'll be ready to clone and use 😜
+
+- 🌱 I’m currently learning Kotlin and diving deeper into Python 3
+
 ---
 
 [![gmail/starichkovva](https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:starichkovva@gmail.com)
