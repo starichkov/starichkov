@@ -18,6 +18,6 @@ Haven't become a Game Developer though, but still - writing code 💻
 
 ---
 
-If you find any of my repositories and gists helpful and would like to show your appreciation, you can support me through 'buy me a coffee'. Your contributions are immensely helpful and help me continue providing valuable resources.
+If you find any of my repositories and gists helpful and would like to show your appreciation, you can support me through 'buy me a coffee'. Your contributions are immensely helpful and help me continue sharing knowledge and providing helpful resources.
 
 <a href="https://www.buymeacoffee.com/starichkov" target="_blank"><img src="https://cdn.buymeacoffee.com/buttons/v2/default-yellow.png" alt="Buy Me A Coffee" style="height: 40px !important;width: 145px !important; float:left;"></a>
