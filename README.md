@@ -2,11 +2,13 @@
 
 - 😀 Fun fact: I've decided to become a software engineer right after I've played Age of Empires (back in 1997) on my mom's work PC.
 It was the very first game I've ever played on PC.
-Haven't become a Game Developer though, but still - writing code 💻
+Haven't become a Game Developer though, but still - writing code 💻 and designing my own game 🎮
 
 - 🔭 Currently working on some libraries and micro-services for my personal project [Template Tasks](https://github.com/TemplateTasks).
 
-- 🌱 Learning Kotlin, diving deeper into Python 3 🐍
+- 🌱 Studying Kotlin, Golang and Node.js
+
+- 🐍 Diving deeper into Python 3
 
 ---
 
