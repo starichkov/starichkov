@@ -17,6 +17,7 @@ Haven't become a Game Developer though, but still - writing code 💻 and design
 [![medium/starichkovva](https://img.shields.io/badge/Medium-12100E?style=for-the-badge&logo=medium&logoColor=white)](https://medium.com/@starichkov/subscribe)
 [![devto/starichkovva](https://img.shields.io/badge/dev.to-0A0A0A?style=for-the-badge&logo=dev.to&logoColor=white)](https://dev.to/starichkov)
 <a href="https://buymeacoffee.com/starichkov" target="_blank"><img src="https://cdn.buymeacoffee.com/buttons/v2/default-yellow.png" alt="Buy Me A Coffee" style="height: 28px !important; float:left;"></a>
+<a href='https://ko-fi.com/E1E6JIHI3' target='_blank'><img height='28' style='border:0px;height:28px;' src='https://storage.ko-fi.com/cdn/kofi2.png?v=6' border='0' alt='Buy Me a Coffee at ko-fi.com' /></a>
 
 If you find any of my repositories and gists helpful and would like to show your appreciation, you can support me by buying me a coffee ☕.
 Your contributions would be immensely helpful and will help me to continue sharing knowledge and providing helpful resources.
