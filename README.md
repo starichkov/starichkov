@@ -4,7 +4,7 @@
 It was the very first game I've ever played on PC.
 Haven't become a Game Developer though, but still - writing code 💻 and designing my own game 🎮
 
-- 🔭 Currently working on some libraries and micro-services for my personal project [Template Tasks](https://github.com/TemplateTasks).
+- 🔭 Currently working on some libraries and micro-services for my personal project - [TemplateTasks](https://github.com/TemplateTasks).
 
 - 🌱 Studying Kotlin, Golang and Node.js
 
